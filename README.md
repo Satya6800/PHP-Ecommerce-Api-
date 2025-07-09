@@ -15,7 +15,6 @@ Step 1: Install Required Tools
 Step 2: Clone the Project
 ```
 cd C:\xampp\htdocs
-git clone https://github.com/pinmonyvicheaa/ecommerce-php.git
 ```
 
 Step 3: Start Apache and MySQL

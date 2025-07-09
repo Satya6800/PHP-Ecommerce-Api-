@@ -14,6 +14,7 @@ Step 1: Install Required Tools
 
 Step 2: Clone the Project
 ```
+Download / Clone
 cd C:\xampp\htdocs
 ```
 
